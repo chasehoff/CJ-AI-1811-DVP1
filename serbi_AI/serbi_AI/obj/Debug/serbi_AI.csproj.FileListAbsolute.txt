@@ -1,0 +1,10 @@
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\bin\Debug\serbi_AI.exe.config
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\bin\Debug\serbi_AI.exe
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\bin\Debug\serbi_AI.pdb
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\obj\Debug\serbi_AI.csprojAssemblyReference.cache
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\obj\Debug\serbi_AI.Form1.resources
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\obj\Debug\serbi_AI.Properties.Resources.resources
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\obj\Debug\serbi_AI.csproj.GenerateResource.cache
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\obj\Debug\serbi_AI.csproj.CoreCompileInputs.cache
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\obj\Debug\serbi_AI.exe
+C:\Users\Chase Hoffman\source\repos\serbi_AI\serbi_AI\obj\Debug\serbi_AI.pdb
