@@ -8,6 +8,7 @@ namespace serbi_AI
 {
     static class Program
     {
+        //This is another test
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
