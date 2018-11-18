@@ -69,7 +69,7 @@ namespace serbi_AI
             /*
             while(uR == "your dumb" || uR == "no your dumb")
             {
-                aiR("no you dumb!");
+                aiR("no you dumb!");test
             }
             */
         }
